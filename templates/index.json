@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_banner": {
@@ -21,7 +30,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "SHOP NOW",
-            "button_link_1": "https:\/\/www.irisfashion.co.uk\/collections\/all-clothing",
+            "button_link_1": "https://www.irisfashion.co.uk/collections/all-clothing",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,9 +44,9 @@
         "buttons_37qVHN"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/HP_SALE_70.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/SALE_70_ST.jpg",
-        "banner_url": "shopify:\/\/collections\/sale",
+        "image": "shopify://shop_images/HP_SALE_70.jpg",
+        "mobile_image": "shopify://shop_images/SALE_70_ST.jpg",
+        "banner_url": "shopify://collections/sale",
         "image_overlay_opacity": 0,
         "show_overlay_content": false,
         "enable_sale_text": false,
@@ -120,14 +129,14 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
           }
         },
         "button_BAGJRL": {
           "type": "button",
           "settings": {
             "button_label": "SHOP ALL SALE",
-            "button_link": "shopify:\/\/collections\/sale",
+            "button_link": "shopify://collections/sale",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -162,7 +171,7 @@
         "text_JJM8pf": {
           "type": "text",
           "settings": {
-            "text": "<p>Leopard print boasts a timelessness few trends can claim. A pop of this animal print is such an easy way to add interest and playfulness to your everyday looks.<\/p>",
+            "text": "<p>Leopard print boasts a timelessness few trends can claim. A pop of this animal print is such an easy way to add interest and playfulness to your everyday looks.</p>",
             "text_style": "body"
           }
         },
@@ -170,7 +179,7 @@
           "type": "button",
           "settings": {
             "button_label": "New IN",
-            "button_link": "shopify:\/\/collections\/new-in-this-week-1",
+            "button_link": "shopify://collections/new-in-this-week-1",
             "button_style_secondary": false
           }
         }
@@ -181,7 +190,6 @@
         "button_LJwUJ8"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/0fb543e1e7f445796654c1ae5a9d3742.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -265,7 +273,7 @@
         "text_w6Lx6d": {
           "type": "text",
           "settings": {
-            "text": "<p>Get an <strong>EXTRA 20% OFF<\/strong> Sale Partywear with the code <strong>NYE20<\/strong>. Our stores are open until 5pm tomorrow for your last-minute New Year's Eve outfits. <\/p>",
+            "text": "<p>Get an <strong>EXTRA 20% OFF</strong> Sale Partywear with the code <strong>NYE20</strong>. Our stores are open until 5pm tomorrow for your last-minute New Year's Eve outfits. </p>",
             "text_style": "body"
           }
         },
@@ -273,7 +281,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop Partywear",
-            "button_link": "shopify:\/\/collections\/the-holiday-collection",
+            "button_link": "shopify://collections/the-holiday-collection",
             "button_style_secondary": false
           }
         }
@@ -285,7 +293,6 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/a72c8ef84f7cb97e566c7d58a01e1460_8879e59f-3118-4e44-a707-dff9b905d8b0.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -314,7 +321,7 @@
         "text_YeyFdT": {
           "type": "text",
           "settings": {
-            "text": "<p>All is calm, all is bright in our fresh winter-white edit. These sparkling, clean pieces are going to bring you to life, even on the darkest of mornings.<\/p>",
+            "text": "<p>All is calm, all is bright in our fresh winter-white edit. These sparkling, clean pieces are going to bring you to life, even on the darkest of mornings.</p>",
             "text_style": "body"
           }
         },
@@ -322,7 +329,7 @@
           "type": "button",
           "settings": {
             "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/collections\/by-iris-knitwear",
+            "button_link": "shopify://collections/by-iris-knitwear",
             "button_style_secondary": false
           }
         }
@@ -333,7 +340,6 @@
         "button_Vjp47A"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/70baceac07126824b6e62764d690ff62_540a534e-d392-425c-bbd8-769c34f959a7.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -417,7 +423,7 @@
         "text_barcQW": {
           "type": "text",
           "settings": {
-            "text": "<p>For the ultimate last minute gift. Give them the gift of choice with an IRIS gift card.<\/p>",
+            "text": "<p>For the ultimate last minute gift. Give them the gift of choice with an IRIS gift card.</p>",
             "text_style": "body"
           }
         },
@@ -425,7 +431,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop Now",
-            "button_link": "shopify:\/\/products\/gift-card",
+            "button_link": "shopify://products/gift-card",
             "button_style_secondary": false
           }
         }
@@ -437,7 +443,6 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/GiftCard_Festive.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -466,7 +471,7 @@
         "text_6jpe7Y": {
           "type": "text",
           "settings": {
-            "text": "<p>Discover our edit of the best contemporary brands.<\/p>",
+            "text": "<p>Discover our edit of the best contemporary brands.</p>",
             "text_style": "body"
           }
         },
@@ -474,7 +479,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop Now",
-            "button_link": "shopify:\/\/collections\/new-in-branded",
+            "button_link": "shopify://collections/new-in-branded",
             "button_style_secondary": false
           }
         }
@@ -485,7 +490,6 @@
         "button_XAbKcU"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/93b349e042b3a5c73a6d3692127c5443_7618ac27-0bcf-4522-bdee-8ded716fcc21.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -569,7 +573,7 @@
         "text_MecJT6": {
           "type": "text",
           "settings": {
-            "text": "<p>Pip Hodgson is the Senior Product Editor at Sheerluxe and one of our ultimate style muses at IRIS. We caught up with her to talk career changes, handbagessentials and the best ways to switch off.<\/p>",
+            "text": "<p>Pip Hodgson is the Senior Product Editor at Sheerluxe and one of our ultimate style muses at IRIS. We caught up with her to talk career changes, handbagessentials and the best ways to switch off.</p>",
             "text_style": "body"
           }
         },
@@ -577,7 +581,7 @@
           "type": "button",
           "settings": {
             "button_label": "READ MORE",
-            "button_link": "shopify:\/\/blogs\/news\/iris-interviews-pip-hodgson",
+            "button_link": "shopify://blogs/news/iris-interviews-pip-hodgson",
             "button_style_secondary": false
           }
         }
@@ -589,7 +593,6 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/Pac-_Lemon_Backgrounf_0cdec2ae-fca1-46ab-b5d7-46852383d285.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -608,7 +611,7 @@
     "covet_pics_3CTMqb": {
       "type": "covet-pics",
       "settings": {
-        "gallery-code": "<covet-pics-widget gallery-embed-id=\"151684\"><\/covet-pics-widget>",
+        "gallery-code": "<covet-pics-widget gallery-embed-id=\"151684\"></covet-pics-widget>",
         "color_scheme": "",
         "top_margin": 50,
         "bottom_margin": 0,
@@ -651,7 +654,6 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/c208ccb6213851958c631ba0571af790.webp",
         "banner_url": "",
         "image_overlay_opacity": 0,
         "show_overlay_content": false,
